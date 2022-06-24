@@ -57,4 +57,7 @@
   <a href="https://www.hackerrank.com/certificates/a034e8ae5e46">
     <img alt="SQL(Intermediate)" title="SQL(Intermediate)" src="certificates/SQL(Intermediate).png" width="300px" />
   </a>
+    <a href="https://www.hackerrank.com/certificates/4ce9f6ed90ef">
+    <img alt="Python(Basic)" title="Python(Basic)" src="certificates/Python(Basic).png" width="300px" />
+  </a>
 </p>
