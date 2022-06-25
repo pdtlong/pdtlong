@@ -61,3 +61,6 @@
     <img alt="Python(Basic)" title="Python(Basic)" src="certificates/Python(Basic).png" width="300px" />
   </a>
 </p>
+
+# What do I do if my snake is eating itself?
+![snake gif](https://github.com/pdtlong/pdtlong/blob/output/github-contribution-grid-snake.gif)
