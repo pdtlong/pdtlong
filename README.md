@@ -54,5 +54,5 @@
   </a>
 </p>
 
-# Life is a Game with Snakes on Every Level
+# Coding and Debugging is a Game with Snakes on Every Level
 ![snake gif](https://github.com/pdtlong/pdtlong/blob/output/github-contribution-grid-snake.gif)
