@@ -34,19 +34,13 @@
   <img src="https://img.icons8.com/color/64/000000/tensorflow.png"/>
 </p>
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdtlong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" alt="pdtlong" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=pdtlong&show_icons=true&theme=vue" alt="pdtlong" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+  <table align="center" style="width:100%;">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdtlong&hide=javascript,html)](https://github.com/pdtlong/github-readme-stats)" alt="pdtlong" width="100%"/>
+      </td>
+    </tr>
+  </table>
 
 # Certificates:
 
@@ -54,13 +48,11 @@
   <a href="https://www.hackerrank.com/certificates/a2854b2446e2">
     <img alt="SQL(Advanced)" title="SQL(Advanced)" src="certificates/SQL(Advanced).png" width="300px" />
   </a>
-  <a href="https://www.hackerrank.com/certificates/a034e8ae5e46">
-    <img alt="SQL(Intermediate)" title="SQL(Intermediate)" src="certificates/SQL(Intermediate).png" width="300px" />
   </a>
     <a href="https://www.hackerrank.com/certificates/4ce9f6ed90ef">
     <img alt="Python(Basic)" title="Python(Basic)" src="certificates/Python(Basic).png" width="300px" />
   </a>
 </p>
 
-# What do I do if my snake is eating itself?
+# Life is a Game with Snakes on Every Level
 ![snake gif](https://github.com/pdtlong/pdtlong/blob/output/github-contribution-grid-snake.gif)
