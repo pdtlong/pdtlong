@@ -33,14 +33,9 @@
   <img src="https://img.icons8.com/plasticine/64/000000/adobe-photoshop.png"/>
   <img src="https://img.icons8.com/color/64/000000/tensorflow.png"/>
 </p>
-
-  <table align="center" style="width:100%;">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdtlong&hide=javascript,html)](https://github.com/pdtlong/github-readme-stats)" alt="pdtlong" width="100%"/>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdtlong&layout=compact"/>
+ </p>
 
 # Certificates:
 
