@@ -4,7 +4,7 @@
 
 - ✍ I'm a master’s student of: [Ton Duc Thang University](https://www.tdtu.edu.vn/)
 
-- 🌱 I’m currently working as a **Freelance AI Engineer.**
+- 🌱 I’m currently working as a **Freelance Data/AI Engineer.**
 
 
 ## 📫 How to Reach Me:
