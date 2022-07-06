@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Long Phạm</h1>
 <p align="center"><img src="https://img.icons8.com/clouds/64/000000/vietnam--v2.png"/></p>
+
+<p align="center"><img src="https://octodex.github.com/images/NUX_Octodex.gif" width="60" height="60"/></p>
+
 <h3 align="center">A Minimalist Guy who loves Challenge-Based Learning</h3>
 
 - ✍ I'm a master’s student of: [Ton Duc Thang University](https://www.tdtu.edu.vn/)
@@ -38,16 +41,17 @@
  </p>
 
 # Certificates:
+<div align="center">
 
-<p align="center">
-  <a href="https://www.hackerrank.com/certificates/a2854b2446e2">
-    <img alt="SQL(Advanced)" title="SQL(Advanced)" src="certificates/SQL(Advanced).png" width="300px" />
-  </a>
-  </a>
-    <a href="https://www.hackerrank.com/certificates/4ce9f6ed90ef">
-    <img alt="Python(Basic)" title="Python(Basic)" src="certificates/Python(Basic).png" width="300px" />
-  </a>
-</p>
+|       **Coding Skills**       	| **Certificate Authorityr** 	|  **Data Skills** 	| **Certificate Authority** 	|
+|:-----------------------------:	|:-------------------:	|:----------------:	|:-------------------:	|
+| [Problem Solving (basic)](https://www.hackerrank.com/certificates/fdf44dd0d447)|     Hacker Rank     	| [Intro to SQL](https://www.kaggle.com/learn/certification/phmdngthnhlong/intro-to-sql)     	|        Kaggle       	|
+| [Python (basic)](https://www.hackerrank.com/certificates/4ce9f6ed90ef)|     Hacker Rank     	| [Advanced SQL](https://www.hackerrank.com/certificates/a2854b2446e2)  |        Kaggle       	|
+| [English B2 Level - CEFR](https://github.com/pdtlong/pdtlong/blob/main/certificates/English%20Certificate%20B2.pdf)|     McGraw-Hill     	| [SQL (Intermedia)](https://www.hackerrank.com/certificates/a034e8ae5e46) 	|     Hacker Rank     	|
+| [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/phmdngthnhlong/intermediate-machine-learning)	|        Kaggle       	| [SQL (Advanced)](https://www.hackerrank.com/certificates/a2854b2446e2)   	|     Hacker Rank     	|
+|                               	|                     	|                  	|                     	|
+
+<div align="center">
 
 # Coding and Debugging is a Game with Snakes on Every Level
 ![snake gif](https://github.com/pdtlong/pdtlong/blob/output/github-contribution-grid-snake.gif)
