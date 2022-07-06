@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long Phạm</h1>
 <p align="center"><img src="https://img.icons8.com/clouds/64/000000/vietnam--v2.png"/></p>
 
-<p align="center"><img src="https://octodex.github.com/images/NUX_Octodex.gif" width="60" height="60"/></p>
-
 <h3 align="center">A Minimalist Guy who loves Challenge-Based Learning</h3>
 
 - ✍ I'm a master’s student of: [Ton Duc Thang University](https://www.tdtu.edu.vn/)
