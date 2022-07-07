@@ -41,7 +41,7 @@
 # Certificates:
 <div align="center">
 
-|       **Coding Skills**       	| **Certificate Authorities** 	|  **Data Skills** 	| **Certificate Authorities** 	|
+|       **Developer Skills**       	| **Certificate Authorities** 	|  **Data Skills** 	| **Certificate Authorities** 	|
 |:-----------------------------:	|:-------------------:	|:----------------:	|:-------------------:	|
 | [Problem Solving (basic)](https://www.hackerrank.com/certificates/fdf44dd0d447)|     Hacker Rank     	| [Intro to SQL](https://www.kaggle.com/learn/certification/phmdngthnhlong/intro-to-sql)     	|        Kaggle       	|
 | [Python (basic)](https://www.hackerrank.com/certificates/4ce9f6ed90ef)|     Hacker Rank     	| [Advanced SQL](https://www.hackerrank.com/certificates/a2854b2446e2)  |        Kaggle       	|
