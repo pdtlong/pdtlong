@@ -52,4 +52,4 @@
 <div align="center">
 
 # Coding and Debugging is a Game with Snakes on Every Level
-![snake gif](https://github.com/pdtlong/pdtlong/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/pdtlong/pdtlong/blob/output/github-contribution-grid-snake.svg)
