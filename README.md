@@ -48,6 +48,7 @@
 | [English B2 Level - CEFR](https://github.com/pdtlong/pdtlong/blob/main/certificates/English%20Certificate%20B2.pdf)|     McGraw-Hill     	| [SQL (Intermedia)](https://www.hackerrank.com/certificates/a034e8ae5e46)|     Hacker Rank     	|
 | [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/phmdngthnhlong/intermediate-machine-learning)	|        Kaggle       	| [SQL (Advanced)](https://www.hackerrank.com/certificates/a2854b2446e2)|     Hacker Rank     	|
 |[Deep Learning Fundamentals](https://courses.cognitiveclass.ai/certificates/93031d8e5b6b4570b2ec5cff6f03d0d3)|  IBM        |                  	|                     
+|[Deep Learning with TensorFlow](https://courses.cognitiveclass.ai/certificates/aaae662a7785491ab7c4d9f8ffb737b7)| IBM |
 |[Accelerating Deep Learning with GPUs](https://courses.cognitiveclass.ai/certificates/fa419ac49c9b4f50b16e2303e13299aa)| IBM |
 
 <div align="center">
