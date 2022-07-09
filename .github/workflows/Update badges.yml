@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: pdtlong/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: "My commit message to update badges"
-          CREDLY_USER: <username_credly>
+          CREDLY_USER: <long-ph-m.8e2832fc>
           CREDLY_SORT: POPULAR
